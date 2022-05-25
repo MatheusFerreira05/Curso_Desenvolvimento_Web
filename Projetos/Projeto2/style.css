@@ -1,0 +1,45 @@
+body{
+    background-image: url('fundo.png');
+}
+
+.menu{
+    margin: 20px 0px;
+}
+
+a{
+    text-decoration: none;
+    margin: 20px;
+    color: rgb(2, 2, 66);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+.conteudo{
+    background-color: rgb(245, 244, 221);
+    width: 900px;
+}
+
+h1{
+    color: rgb(157, 146, 132);
+    font-size: 1.5em;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    padding: 5px;
+}
+
+.conteudo img{
+    border: 10px solid rgb(157, 146, 132) ;
+    margin-left: 10px;
+}
+
+address{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
